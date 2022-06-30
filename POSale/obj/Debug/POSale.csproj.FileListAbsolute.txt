@@ -1,0 +1,13 @@
+C:\Users\Harry Kayson\source\repos\POSale\POSale\bin\Debug\POSale.exe.config
+C:\Users\Harry Kayson\source\repos\POSale\POSale\bin\Debug\POSale.exe
+C:\Users\Harry Kayson\source\repos\POSale\POSale\bin\Debug\POSale.pdb
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.csproj.AssemblyReference.cache
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.csproj.SuggestedBindingRedirects.cache
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.MainForm.resources
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.Properties.Resources.resources
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.csproj.GenerateResource.cache
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.csproj.CoreCompileInputs.cache
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.exe
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.pdb
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.Brand.resources
+C:\Users\Harry Kayson\source\repos\POSale\POSale\obj\Debug\POSale.BrandModule.resources
